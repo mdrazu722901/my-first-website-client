@@ -76,3 +76,8 @@ a {
 .last {
     text-align: center;
 }
+
+.last p {
+    background-color: tomato;
+    padding: 20px;
+}
