@@ -80,4 +80,5 @@ a {
 .last p {
     background-color: tomato;
     padding: 20px;
+    text-shadow: 5px 5px 10px cyan;
 }
